@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "sea-turtle-facial-recognition"
+version = "0.1.0"
+description = "Facial recognition demonstration for sea turtles using SIFT and LightGlue"
+authors = ["Marcus Leiwe <marcus@leiwe.partners>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+torch = "^2.1.0"
+torchvision = "^0.16.0"
+opencv-python-headless = "^4.8.0"
+numpy = "^1.24.0"
+matplotlib = "^3.7.0"
+seaborn = "^0.12.0"
+pandas = "^2.0.0"
+scikit-learn = "^1.3.0"
+scipy = "^1.11.0"
+jupyter = "^1.0.0"
+ipykernel = "^6.25.0"
+lightglue = {git = "https://github.com/cvg/LightGlue.git"}
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.0.0"
+flake8 = "^6.0.0"
+pytest = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
