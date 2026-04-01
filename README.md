@@ -2,6 +2,11 @@
 
 Demonstration notebooks for identifying individual sea turtles from facial imagery using **SIFT keypoints + LightGlue matching**.
 
+[![Open Notebook 2 in Colab](https://img.shields.io/badge/Open%20Notebook%202-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/LeiweAndPartners/sea-turtle_facial-recognition/blob/main/2_turtle_identification.ipynb)
+[![Open Notebook 1 in Colab](https://img.shields.io/badge/Open%20Notebook%201-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/LeiweAndPartners/sea-turtle_facial-recognition/blob/main/1_build_reference_library.ipynb)
+[![Presented At AI Tinkerers](https://img.shields.io/badge/Presented%20At-AI%20Tinkerers-7B61FF)](https://hong-kong.aitinkerers.org/talks/rsvp_CKcqvusIVsI)
+[![Featured In Community Spotlight #16](https://img.shields.io/badge/Featured%20In-Community%20Spotlight%20%2316-0EA5E9)](https://post-training.aitinkerers.org/p/community-spotlights-issue-16)
+
 [Open Notebook 2 in Colab](https://colab.research.google.com/github/LeiweAndPartners/sea-turtle_facial-recognition/blob/main/2_turtle_identification.ipynb) • [Open Notebook 1 in Colab](https://colab.research.google.com/github/LeiweAndPartners/sea-turtle_facial-recognition/blob/main/1_build_reference_library.ipynb) • [Presented At](https://hong-kong.aitinkerers.org/talks/rsvp_CKcqvusIVsI) • [Featured In (AI Tinkerers Spotlight #16)](https://post-training.aitinkerers.org/p/community-spotlights-issue-16)
 
 ---
